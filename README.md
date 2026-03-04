@@ -17,12 +17,3 @@ I design and build production-grade AI systems — from RAG pipelines to scalabl
 ⚙️ Scalable backend systems in Python & Java  
 📦 Containerized ML services  
 ☁️ AWS-based distributed architectures  
-
----
-
-## 🌱 Currently Exploring
-
-- Advanced retrieval optimization
-- Vector DB evaluation techniques
-- LLM inference batching strategies
-- Multi-agent orchestration systems
